@@ -1,0 +1,17 @@
+# Folder hasil kompilasi (berisi file .class)
+bin/
+
+# Pengaturan lokal VS Code
+.vscode/
+
+# Folder library (file .jar) - opsional tapi sangat disarankan untuk diabaikan
+lib/
+
+# Ekstensi file Java yang sudah dikompilasi
+*.class
+
+# File log jika ada error
+*.log
+
+# File .env (jaga-jaga jika nanti kamu membuatnya)
+.env
