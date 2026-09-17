@@ -7,7 +7,7 @@ import javafx.scene.control.Button;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
  
-public class App extends Application {
+public class Testing extends Application {
     @Override
     public void start(Stage primaryStage) {
         Button btn = new Button();
